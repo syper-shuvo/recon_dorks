@@ -2,6 +2,9 @@ site:*.google.*
 site:google.*
 site:*.google.com
 site:*.google.-*.*
+"Index of" inurl:phpmyadmin
+inurl:_cpanel/forgotpwd
+
 intitle:"Index of" wp-admin
 inurl:/proc/self/cwd
 allintext:username filetype:log
@@ -10,7 +13,8 @@ filetype:xls inurl:"email.xls"
 
 
 site:http://hub.docker.com "id_rsa"
-
+inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software"
+inurl:app/kibana intext:Loading Kibana
 
 
 
