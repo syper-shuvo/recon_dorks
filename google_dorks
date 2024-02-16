@@ -1,0 +1,16 @@
+site:*.google.*
+site:google.*
+site:*.google.com
+site:*.google.-*.*
+
+site:http://hub.docker.com "id_rsa"
+
+
+
+
+
+
+
+
+============= [online] ===============
+https://dork.bugbountyhunting.com/
